@@ -1,0 +1,43 @@
+{
+  "name": "Birdwatching World Map",
+  "slug": "birdwatchingworldmap",
+  "emoji": "🐦",
+  "domain": "birdwatchingworldmap.com",
+  "colors": {
+    "primary": "#1b4332",
+    "accent": "#74c69d"
+  },
+  "osm": {
+    "key": "leisure",
+    "value": "bird_hide"
+  },
+  "osmFilters": [
+    {
+      "key": "leisure",
+      "value": "bird_hide"
+    }
+  ],
+  "includeRelations": false,
+  "dedupeMeters": 0,
+  "mappedNoun": "bird hides",
+  "unnamedLabel": "Unnamed bird hide",
+  "metaFields": [
+    {
+      "key": "operator",
+      "label": "Operator"
+    }
+  ],
+  "locales": [
+    "en"
+  ],
+  "defaultLocale": "en",
+  "namedOnly": false,
+  "includeFilter": null,
+  "dataSource": {
+    "type": "overpass"
+  },
+  "googlePlaces": {
+    "enabled": false,
+    "cap": 800
+  }
+}
