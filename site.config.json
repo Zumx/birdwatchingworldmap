@@ -21,12 +21,14 @@
   "dedupeMeters": 0,
   "mappedNoun": "bird hides",
   "unnamedLabel": "Unnamed bird hide",
+  "affiliateUrl": "https://www.getyourguide.com/s/?q={q}",
   "metaFields": [
     {
       "key": "operator",
       "label": "Operator"
     }
   ],
+  "aboutText": null,
   "locales": [
     "en"
   ],
