@@ -46,5 +46,8 @@
   "googlePlaces": {
     "enabled": false,
     "cap": 800
+  },
+  "indexNow": {
+    "key": "8d7c7fef497f445ab082ee43ad232f06"
   }
 }
