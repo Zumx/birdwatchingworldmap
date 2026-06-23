@@ -2,7 +2,7 @@
   "name": "Birdwatching World Map",
   "slug": "birdwatchingworldmap",
   "emoji": "🐦",
-  "domain": "birdwatchingworldmap.com",
+  "domain": "birdwatchingworldmap.vercel.app",
   "contactEmail": "hello@birdwatchingworldmap.com",
   "colors": {
     "primary": "#1b4332",
