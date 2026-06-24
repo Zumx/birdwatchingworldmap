@@ -32,7 +32,10 @@
       "label": "Operator"
     }
   ],
-  "aboutText": null,
+  "aboutText": [
+    "Birdwatching World Map collects the hides, blinds and observation towers built for watching birds — the quiet structures at the edge of a marsh, estuary or reserve where you can sit unseen and let the wildlife come to you.",
+    "Each hide is drawn from OpenStreetMap's `leisure=bird_hide` tag and added by birders and reserve managers. Use it to scout a new patch or plan a day's birding; opening times and access are set by whoever manages the site."
+  ],
   "locales": [
     "en",
     "de",
