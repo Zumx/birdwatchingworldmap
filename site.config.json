@@ -4,6 +4,7 @@
   "emoji": "🐦",
   "domain": "birdwatchingworldmap.vercel.app",
   "contactEmail": "hello@birdwatchingworldmap.com",
+  "ga4Id": null,
   "colors": {
     "primary": "#1b4332",
     "accent": "#74c69d"
